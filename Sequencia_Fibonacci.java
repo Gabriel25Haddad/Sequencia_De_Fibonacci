@@ -19,7 +19,6 @@ public class Sequencia_Fibonacci {
             System.out.println(fn);
             f1=f2;
             f2=fn;
-            
         }
     }
 }
